@@ -16,6 +16,6 @@ setInterval( function() {
 },500)
 
 
-setTimeout(CRASH,6000 )
+setTimeout(CRASH,3569.980128392173192873129712731892 )
 //CRASH()
 //console.log(DUMBTEXT)
