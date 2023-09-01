@@ -9,6 +9,6 @@ CRASH()
 }, 1)
 }
 
-setTimeout(CRASH,2000 )
+setTimeout(CRASH,5000 )
 //CRASH()
 //console.log(DUMBTEXT)
